@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question: 45/89</string>
+    <string name="ture_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="placeHolder">Hi User, this is where we are going to add the questions!</string>
+    <string name="wrongAnswer">Wrong Answer!</string>
+    <string name="correctAnswer">That is a correct Answer</string>
+    <string name="text_formatted">Questions: %d/%d</string>
+    <string name="incorrectAnswer">Sorry! Its a wrong answer</string>
+    <string name="score_value">Highest:</string>
+    <string name="Score_Text">Score: %d</string>
+    <string name="Score_Value">Score</string>
+    <string name="current_Score">Current Score: 0</string>
+    <string name="currentScore">Current Score: %d</string>
+    <string name="high_score">Highest: %d</string>
+    <string name="clear_score">Clear</string>
+</resources>
